@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "autonode-diagrams"
+version = "0.1.0"
+description = ""
+authors = ["Ryan McKeown <ryanmckeown@mail4me.com>"]
+readme = "README.md"
+packages = [{include = "autonode_diagrams"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+diagrams = "^0.6.0"
+pillow = "^9.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
