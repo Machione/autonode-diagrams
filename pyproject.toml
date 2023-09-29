@@ -1,10 +1,19 @@
 [tool.poetry]
 name = "autonode-diagrams"
-version = "0.1.0"
-description = ""
+version = "1.0.0"
+description = "Automatically generate node icons for Python Diagrams based on label text"
 authors = ["Ryan McKeown <ryanmckeown@mail4me.com>"]
 readme = "README.md"
 packages = [{include = "autonode_diagrams"}]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Machione/autonode-diagrams"
+
 
 [tool.poetry.dependencies]
 python = "^3.7"
