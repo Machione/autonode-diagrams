@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "autonode-diagrams"
-version = "1.0.3"
+version = "1.0.4"
 description = "Automatically generate node icons for Python Diagrams based on label text"
 authors = ["Ryan McKeown <ryanmckeown@mail4me.com>"]
 readme = "README.md"
@@ -12,8 +12,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Source" = "https://github.com/Machione/autonode-diagrams"
-"Funding" = "https://ko-fi.com/machione"
+Source = "https://github.com/Machione/autonode-diagrams"
+Funding = "https://ko-fi.com/machione"
 
 
 [tool.poetry.dependencies]
