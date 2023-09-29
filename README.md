@@ -6,7 +6,7 @@ However, one current limitation is that all nodes of the diagram must have both 
 
 This package extends the [Diagram's Custom Node](https://diagrams.mingrammer.com/docs/nodes/custom) and automatically generates an icon based on the text in the node's label if no icon is provided. It is designed to be used in conjunction with, not as a replacement to, [Diagrams](https://diagrams.mingrammer.com).
 
-![Demonstration](demonstration.png)
+![Demonstration](https://raw.githubusercontent.com/Machione/autonode-diagrams/main/demonstration.png)
 
 ## Quick Start
 
