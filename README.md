@@ -8,6 +8,14 @@ This package extends the [Diagram's Custom Node](https://diagrams.mingrammer.com
 
 ![Demonstration](https://raw.githubusercontent.com/Machione/autonode-diagrams/main/demonstration.png)
 
+## Installation
+
+This [package is available on PyPI](https://pypi.org/project/autonode-diagrams/) for installation. Use Pip or your preferred method of installing Python packages.
+
+```shell
+pip install autonode-diagrams
+```
+
 ## Quick Start
 
 Most of this code is taken from the [Diagram's Quick Start guide](https://diagrams.mingrammer.com/docs/getting-started/installation#quick-start) plus [Custom nodes with remote icons guide](https://diagrams.mingrammer.com/docs/nodes/custom#custom-with-remote-icons). This is to show how Autonode Diagram's `Icon` class integrates seamlessly with the rest of the regular Python Diagram's functionality, allowing the two to be used side-by-side.
